@@ -1,4 +1,4 @@
-# RAIWorkshop
+# RAIWorkshop  (Responsible Artificial Intelligence Workshop)
 A repository created by US OCP for public facing RAI Workshop Materials <br>
 This respsitory can be accessed via: https://aka.ms/raiworkshop
 
@@ -17,19 +17,19 @@ There are four possible business agendas, and each will have progressive interac
 This is mainly a webcast overview for general awareness.  Little to no interaction and limited depth.
 
 ### Standard Business Agenda (3 hours)
-Can be delivered virtually or in-person.  Good interaction and all scearios covered, but still limited depth scenario stages and discussion on the topics.
+Can be delivered virtually or in-person.  Good interaction and all scearios covered, but limited depth on scenario stages and discussion on the topics.
 
 | Length |  Topics                      |
 |:------:|:----------------------------:|
 | 0:20   |Initial Scenario              |
 | 0:30   |Responsible AI Overview       |
-| 0:15   |Fairness Scenario             |
-| 0:15   |Accountability Scenario       |
-| 0:15   |Transparency Scenario         |
+| 0:15   |Fairness Scenarios            |
+| 0:15   |Accountability Scenarios      |
+| 0:15   |Transparency Scenarios        |
 | 0:15   |Break                         |
-| 0:15   |Reliability & Safety Scenario |
-| 0:15   |Privacy & Security Scenario   |
-| 0:15   |Inclusiveness Scenario        |
+| 0:15   |Reliability & Safety Scenarios|
+| 0:15   |Privacy & Security Scenarios  |
+| 0:15   |Inclusiveness Scenarios       |
 | 0:15   |Setting up YOUR RAI Process   |
 | 0:10   |Next Steps & Debrief          |
 
@@ -40,9 +40,9 @@ Generally delivered virtually.  Some interaction and not all scenarios covered, 
 |:------:|:--------------------------:|
 | 0:20   |Initial Scenario            |
 | 0:30   |Responsible AI Overview     |
-| 0:15   |Fairness Scenario           |
-| 0:15   |Accountability Scenario     |
-| 0:15   |Transparency Scenario       |
+| 0:15   |Fairness Scenarios          |
+| 0:15   |Accountability Scenarios    |
+| 0:15   |Transparency Scenarios      |
 | 0:15   |Setting up YOUR RAI Process |
 | 0:10   |Next Steps & Debrief        |
 
@@ -50,20 +50,32 @@ Generally delivered virtually.  Some interaction and not all scenarios covered, 
 ### Depth Business Agenda (4 hours)
 Will be delivered in-person.  Good interaction and all scearios covered, with extended depth on scenario stages and discussion on the topics.
 
-| Length |  Topics                    |
-|:------:|:--------------------------:|
-| 0:20   |Initial Scenario            |
-| 0:30   |Responsible AI Overview     |
-| 0:25   |Fairness Scenario           |
-| 0:25   |Accountability Scenario     |
-| 0:25   |Transparency Scenario       |
-| 0:15   |Break                       |
-| 0:25   |Reliability & Safety Scenario |
-| 0:25   |Privacy & Security Scenario |
-| 0:25   |Inclusiveness Scenario      |
-| 0:20   |Setting up YOUR RAI Process |
-| 0:10   |Next Steps & Debrief        |
+| Length |  Topics                      |
+|:------:|:----------------------------:|
+| 0:20   |Initial Scenario              |
+| 0:30   |Responsible AI Overview       |
+| 0:25   |Fairness Scenarios            |
+| 0:25   |Accountability Scenarios      |
+| 0:25   |Transparency Scenarios        |
+| 0:15   |Break                         |
+| 0:25   |Reliability & Safety Scenarios|
+| 0:25   |Privacy & Security Scenarios  |
+| 0:25   |Inclusiveness Scenarios       |
+| 0:20   |Setting up YOUR RAI Process   |
+| 0:10   |Next Steps & Debrief          |
 
+
+## RAI Technical Agenda (3 hours)
+Can be delivered virtual or in-person.  A hands on workshop for technical staff who want to understand how RAI is implimented in model development and design.  Good for both general developers, but ideal for those with Python/R and ML expereince.
+
+| Length |  Topics                      |
+|:------:|:----------------------------:|
+| 0:40   |Auzre AI Overview                   |
+| 0:40   |Azure Machine Learning Overview       |
+| 0:15   |Break                        |
+| 0:50   |Hands on with Model Interpridability Notebooks    |
+| 0:25   |Exploring Transparency inside AML       |
+| 0:10   |Next Steps & Debrief          |
 
 Content Owner: Chris Kahrs (ckahrs@microsoft.com)<br>
 Update Date: 2020.1.30
