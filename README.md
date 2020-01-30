@@ -1,11 +1,11 @@
 # RAIWorkshop  (Responsible Artificial Intelligence Workshop)
 A repository created by US OCP for public facing RAI Workshop Materials <br>
-This respsitory can be accessed via: https://aka.ms/raiworkshop
+This repository can be accessed via: https://aka.ms/raiworkshop
 
 ## Purpose
 This workshop is designed to aid Microsoft partners in developing an awareness of Responsible AI as they engage in AI projects for their customers.  By the end of the workshop partners will be able to:
 * Conduct simular workshops with their employees to ensure their specific AI principles are proliferated throughout the organization
-* Conduct simular workshops with their customers to ensure their joint AI principles are adheard to throughout shared projects
+* Conduct simular workshops with their customers to ensure their joint AI principles are adherd to throughout shared projects
 * Create a process/committee to resolve internal escalations of possible Responsible AI conflicts
 * Establish a 1-hour quarterly rhythm with Microsoft for bi-directional communications regarding RAI
   
@@ -73,7 +73,7 @@ Can be delivered virtual or in-person.  A hands on workshop for technical staff 
 | 0:40   |Auzre AI Overview                   |
 | 0:40   |Azure Machine Learning Overview       |
 | 0:15   |Break                        |
-| 0:50   |Hands on with Model Interpridability Notebooks    |
+| 0:50   |Hands on with Model Interpretability Notebooks    |
 | 0:25   |Exploring Transparency inside AML       |
 | 0:10   |Next Steps & Debrief          |
 
