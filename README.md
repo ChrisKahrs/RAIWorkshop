@@ -65,16 +65,16 @@ Will be delivered in-person.  Good interaction and all scearios covered, with ex
 | 0:10   |Next Steps & Debrief          |
 
 
-## RAI Technical Agenda (3 hours)
+## RAI Technical Agenda (3.5 hours)
 Can be delivered virtual or in-person.  A hands on workshop for technical staff who want to understand how RAI is implimented in model development and design.  Good for both general developers, but ideal for those with Python/R and ML expereince.
 
 | Length |  Topics                      |
 |:------:|:----------------------------:|
-| 0:40   |Auzre AI Overview                   |
-| 0:40   |Azure Machine Learning Overview       |
+| 0:45   |Auzre AI Overview                   |
+| 0:45   |Azure Machine Learning Overview       |
 | 0:15   |Break                        |
-| 0:50   |Hands on with Model Interpretability Notebooks    |
-| 0:25   |Exploring Transparency inside AML       |
+| 0:45   |Hands on with Model Interpretability Notebooks    |
+| 0:45   |Exploring Transparency inside AML       |
 | 0:10   |Next Steps & Debrief          |
 
 Content Owner: Chris Kahrs (ckahrs@microsoft.com)<br>

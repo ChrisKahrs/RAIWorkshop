@@ -1,7 +1,7 @@
 # RAIWorkshop Internal Design Criteria
 
 
-* Reuse as much as possible from the intneral Responsible AI Team
+* Reuse as much as possible from the internal Responsible AI Team
   * BDM and TDM Decks
 * Review with as broad a team as possible scenarios
   * Including international 
