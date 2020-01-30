@@ -1,2 +1,2 @@
 # RAIWorkshop
-The US OCP Version of the Responsible Artificial Intelligence Workshop
+The US OCP Version of the Responsible Artificial Intelligence Workshop +
