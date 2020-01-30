@@ -16,6 +16,23 @@ There are four possible business agendas, and each will have progressive interac
 ### Overview Business Agenda (1 hour)
 This is mainly a webcast overview for general awareness.  Little to no interaction and limited depth.
 
+### Standard Business Agenda (3 hours)
+Can be delivered virtually or in-person.  Good interaction and all scearios covered, but still limited depth scenario stages and discussion on the topics.
+
+| Length |  Topics                      |
+|:------:|:----------------------------:|
+| 0:20   |Initial Scenario              |
+| 0:30   |Responsible AI Overview       |
+| 0:15   |Fairness Scenario             |
+| 0:15   |Accountability Scenario       |
+| 0:15   |Transparency Scenario         |
+| 0:15   |Break                         |
+| 0:15   |Reliability & Safety Scenario |
+| 0:15   |Privacy & Security Scenario   |
+| 0:15   |Inclusiveness Scenario        |
+| 0:15   |Setting up YOUR RAI Process   |
+| 0:10   |Next Steps & Debrief          |
+
 ### Light Business Agenda (2 hours)
 Generally delivered virtually.  Some interaction and not all scenarios covered, plus limited depth on scenario stages and discussion on the topics.
 
@@ -29,27 +46,23 @@ Generally delivered virtually.  Some interaction and not all scenarios covered, 
 | 0:15   |Setting up YOUR RAI Process |
 | 0:10   |Next Steps & Debrief        |
 
-*
 
-### Standard Business Agenda (3 hours)
-Can be delivered virtually or in-person.  Good interaction and all scearios covered, but still limited depth scenario stages and discussion on the topics.
+### Depth Business Agenda (4 hours)
+Will be delivered in-person.  Good interaction and all scearios covered, with extended depth on scenario stages and discussion on the topics.
 
 | Length |  Topics                    |
 |:------:|:--------------------------:|
 | 0:20   |Initial Scenario            |
 | 0:30   |Responsible AI Overview     |
-| 0:15   |Fairness Scenario           |
-| 0:15   |Accountability Scenario     |
-| 0:15   |Transparency Scenario       |
+| 0:25   |Fairness Scenario           |
+| 0:25   |Accountability Scenario     |
+| 0:25   |Transparency Scenario       |
 | 0:15   |Break                       |
-| 0:15   |Reliability & Safety Scenario |
-| 0:15   |Privacy & Security Scenario |
-| 0:15   |Inclusiveness Scenario      |
-| 0:15   |Setting up YOUR RAI Process |
+| 0:25   |Reliability & Safety Scenario |
+| 0:25   |Privacy & Security Scenario |
+| 0:25   |Inclusiveness Scenario      |
+| 0:20   |Setting up YOUR RAI Process |
 | 0:10   |Next Steps & Debrief        |
-
-*
-
 
 
 Content Owner: Chris Kahrs (ckahrs@microsoft.com)<br>
