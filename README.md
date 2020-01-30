@@ -7,7 +7,7 @@ This workshop is designed to aid Microsoft partners in developing an awareness o
 * Conduct simular workshops with their employees to ensure their specific AI principles are proliferated throughout the organization
 * Conduct simular workshops with their customers to ensure their joint AI principles are adherd to throughout shared projects
 * Create a process/committee to resolve internal escalations of possible Responsible AI conflicts
-* Establish a 1-hour quarterly rhythm with Microsoft for bi-directional communications regarding RAI
+  * Establish a 1-hour quarterly rhythm with Microsoft for bi-directional communications regarding Responsible AI
   
 
 ## Agendas
