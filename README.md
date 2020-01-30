@@ -2,44 +2,55 @@
 A repository created by US OCP for public facing RAI Workshop Materials <br>
 This respsitory can be accessed via: https://aka.ms/raiworkshop
 
-
-This workshop is designed to aid Microsoft partners in developing an awareness of Responsible AI as they engage in AI projects for their customers.  By the end of the workshop partners will:
-* Be able to conduct simular workshops with their employees to ensure their specific AI principles are proliferated throughout the organization
-* Be able to conduct simular workshops with their customers to ensure their joint AI principles are adheard to throughout shared projects
+## Purpose
+This workshop is designed to aid Microsoft partners in developing an awareness of Responsible AI as they engage in AI projects for their customers.  By the end of the workshop partners will be able to:
+* Conduct simular workshops with their employees to ensure their specific AI principles are proliferated throughout the organization
+* Conduct simular workshops with their customers to ensure their joint AI principles are adheard to throughout shared projects
 * Create a process/committee to resolve internal escalations of possible Responsible AI conflicts
-* Establish a 1 hour quarterly rhythm with Microsoft for bi-directional communications regarding RAI
+* Establish a 1-hour quarterly rhythm with Microsoft for bi-directional communications regarding RAI
   
 
-There are four possible agenda, and each will have progressive interaction, understanding and enablement.
+## Agendas
+There are four possible business agendas, and each will have progressive interaction, understanding and enablement.  Depending on the technical depth of the partner in AI/Data Science, these can be followed by a technical workshop as well.
 
-## Light Business Agenda (2 hours)
+### Overview Business Agenda (1 hour)
+This is mainly a webcast overview for general awareness.  Little to no interaction and limited depth.
 
-| Times (day 1) | Length |  Topics                    |
-|:-------------:|:------:|:--------------------------:|
-| 8:30a-8:45a   | 0:15   |Welcome, Opening Comments   |
-| 8:45a-10:15a  | 1:30   |Azure AI Overview           |
-| 10:15a-10:30a | 0:15   |**Break**                   |
-| 10:30a-12:00p | 1:30   |Cognitive Services          |
-| 12:00p-12:30p | 0:30   |**Lunch Break**             |
-| 12:30p-2:00p  | 1:30   |Cognitive Search (KM)       |
-| 2:00p-2:15p   | 0:15   |**Break**                   |
-| 2:15p-3:45p   | 1:30   |Azure Databricks            |
-| 3:45p-4:00p   | 0:15   |Day Wrap Up, Q/A and Debrief|
+### Light Business Agenda (2 hours)
+Generally delivered virtually.  Some interaction and not all scenarios covered, plus limited depth on scenario stages and discussion on the topics.
+
+| Length |  Topics                    |
+|:------:|:--------------------------:|
+| 0:20   |Initial Scenario            |
+| 0:30   |Responsible AI Overview     |
+| 0:15   |Fairness Scenario           |
+| 0:15   |Accountability Scenario     |
+| 0:15   |Transparency Scenario       |
+| 0:15   |Setting up YOUR RAI Process |
+| 0:10   |Next Steps & Debrief        |
 
 *
 
-| Times (day 2) | Length |  Topics                        |
-|:-------------:|:------:|:------------------------------:|
-| 8:30a-10:00a  | 1:30   |Machine Learning - Designer     |
-| 10:00a-10:15a | 0:15   |**Break**                       |
-| 10:15a-11:45a | 1:30   |Machine Learning - Automated ML |
-| 11:45a-12:15p | 0:30   |**Lunch Break**                 |
-| 12:15p-1:45p  | 1:30   |Machine Learning - Notebooks    |
-| 1:45p-2:00p   | 0:15   |**Break**                       |
-| 2:00p-3:30p   | 1:30   |Bots (Agents)                   |
-| 3:30p-4:00p   | 0:30   |Overall Wrap Up, Q/A and Debrief|
+### Standard Business Agenda (3 hours)
+Can be delivered virtually or in-person.  Good interaction and all scearios covered, but still limited depth scenario stages and discussion on the topics.
+
+| Length |  Topics                    |
+|:------:|:--------------------------:|
+| 0:20   |Initial Scenario            |
+| 0:30   |Responsible AI Overview     |
+| 0:15   |Fairness Scenario           |
+| 0:15   |Accountability Scenario     |
+| 0:15   |Transparency Scenario       |
+| 0:15   |Break                       |
+| 0:15   |Reliability & Safety Scenario |
+| 0:15   |Privacy & Security Scenario |
+| 0:15   |Inclusiveness Scenario      |
+| 0:15   |Setting up YOUR RAI Process |
+| 0:10   |Next Steps & Debrief        |
+
+*
 
 
 
 Content Owner: Chris Kahrs (ckahrs@microsoft.com)<br>
-Update Date: 2019.11.6
+Update Date: 2020.1.30
