@@ -10,6 +10,21 @@ This workshop is designed to aid Microsoft partners in developing an awareness o
   * Establish a 1-hour quarterly rhythm with Microsoft for bi-directional communications regarding Responsible AI
   
 
+## Prerequisites
+It will greatly aid in your understanding and ability to participate in the course if you can complete the three modules in the learning path [Identify guiding principles for responsible AI](https://docs.microsoft.com/en-us/learn/paths/responsible-ai-business-principles/).
+1.  [Identify guiding principles for responsible AI](https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/index)
+1.  [Identify governing practices for responsible AI](https://docs.microsoft.com/en-us/learn/modules/responsible-ai-governing-practices/index)
+1.  [Discuss practices for responsible AI at Microsoft](https://docs.microsoft.com/en-us/learn/modules/microsoft-responsible-ai-practices/index)
+
+
+## Who Should Attend
+For the business workshop the attendees ideally would be:
+* CxO or Company Leadership
+* Primary Legal Counsel 
+* Head of Sales
+* Corporate Communications
+* Practice Lead for Data & AI (or eqivalant)
+
 ## Agendas
 There are four possible business agendas, and each will have progressive interaction, understanding and enablement.  Depending on the technical depth of the partner in AI/Data Science, these can be followed by a technical workshop as well.
 
@@ -78,4 +93,4 @@ Can be delivered virtual or in-person.  A hands on workshop for technical staff 
 | 0:10   |Next Steps & Debrief          |
 
 Content Owner: Chris Kahrs (ckahrs@microsoft.com)<br>
-Update Date: 2020.1.30
+Update Date: 2020.2.18
