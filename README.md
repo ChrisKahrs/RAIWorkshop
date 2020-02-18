@@ -22,7 +22,7 @@ Can be delivered virtually or in-person.  Good interaction and all scearios cove
 | Length |  Topics                      |
 |:------:|:----------------------------:|
 | 0:20   |Initial Scenario              |
-| 0:30   |Responsible AI Overview       |
+| 0:30   |Responsible AI (RAI) Overview |
 | 0:15   |Fairness Scenarios            |
 | 0:15   |Accountability Scenarios      |
 | 0:15   |Transparency Scenarios        |
