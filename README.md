@@ -4,10 +4,10 @@ This repository can be accessed via: https://aka.ms/raiworkshop
 
 ## Purpose
 This workshop is designed to aid Microsoft partners in developing an awareness of Responsible AI as they engage in AI projects for their customers.  By the end of the workshop partners will be able to:
-* Conduct simular workshops with their employees to ensure their specific AI principles are proliferated throughout the organization
-* Conduct simular workshops with their customers to ensure their joint AI principles are adherd to throughout shared projects
+* Conduct similar workshops with their employees to ensure their specific AI principles are proliferated throughout the organization
+* Conduct similar workshops with their customers to ensure their joint AI principles are adherd to throughout shared projects
 * Create a process/committee to resolve internal escalations of possible Responsible AI conflicts
-  * Establish a 1-hour quarterly rhythm with Microsoft for bi-directional communications regarding Responsible AI
+* Establish a 1-hour quarterly rhythm with Microsoft for bi-directional communications regarding Responsible AI
   
 
 ## Prerequisites
@@ -23,7 +23,7 @@ For the business workshop the attendees ideally would be:
 * Primary Legal Counsel 
 * Head of Sales
 * Corporate Communications
-* Practice Lead for Data & AI (or eqivalant)
+* Practice Lead for Data & AI (or equivalent)
 
 ## Agendas
 There are four possible business agendas, and each will have progressive interaction, understanding and enablement.  Depending on the technical depth of the partner in AI/Data Science, these can be followed by a technical workshop as well.
@@ -85,7 +85,7 @@ Can be delivered virtual or in-person.  A hands on workshop for technical staff 
 
 | Length |  Topics                      |
 |:------:|:----------------------------:|
-| 0:45   |Auzre AI Overview                   |
+| 0:45   |Azure AI Overview                   |
 | 0:45   |Azure Machine Learning Overview       |
 | 0:15   |Break                        |
 | 0:45   |Hands on with Model Interpretability Notebooks    |
