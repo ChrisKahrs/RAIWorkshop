@@ -17,7 +17,7 @@ It will greatly aid in your understanding and ability to participate in the cour
 1.  [Discuss practices for responsible AI at Microsoft](https://docs.microsoft.com/en-us/learn/modules/microsoft-responsible-ai-practices/index)
 
 
-## Who Should Attend
+## Who Should Attend the Leadership Workshop
 For the business workshop the attendees ideally would be:
 * CxO or Company Leadership
 * Primary Legal Counsel 
