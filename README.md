@@ -32,7 +32,7 @@ There are four possible business agendas, and each will have progressive interac
 This is mainly a webcast overview for general awareness.  Little to no interaction and limited depth.
 
 ### Standard Business Agenda (3 hours)
-Can be delivered virtually or in-person.  Good interaction and all scearios covered, but limited depth on scenario stages and discussion on the topics.
+Can be delivered virtually or in-person.  Good interaction and all scenarios covered, but limited depth on scenario stages and discussion on the topics.
 
 | Length |  Topics                      |
 |:------:|:----------------------------:|
