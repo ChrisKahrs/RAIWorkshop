@@ -7,8 +7,23 @@ This1 workshop is designed to aid Microsoft partners in developing an awareness 
 * Conduct simular workshops with their employees to ensure their specific AI principles are proliferated throughout the organization
 * Conduct simular workshops with their customers to ensure their joint AI principles are adherd to throughout shared projects
 * Create a process/committee to resolve internal escalations of possible Responsible AI conflicts
-  * Establish a 1-hour quarterly rhythm with Microsoft for bi-directional communications regarding Responsible AI
+* Establish a 1-hour quarterly rhythm with Microsoft for bi-directional communications regarding Responsible AI
   
+
+## Prerequisites
+It will greatly aid in your understanding and ability to participate in the course if you can complete the three modules in the learning path [Identify guiding principles for responsible AI](https://docs.microsoft.com/en-us/learn/paths/responsible-ai-business-principles/).
+1.  [Identify guiding principles for responsible AI](https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/index)
+1.  [Identify governing practices for responsible AI](https://docs.microsoft.com/en-us/learn/modules/responsible-ai-governing-practices/index)
+1.  [Discuss practices for responsible AI at Microsoft](https://docs.microsoft.com/en-us/learn/modules/microsoft-responsible-ai-practices/index)
+
+
+## Who Should Attend the Leadership Workshop
+For the business workshop the attendees ideally would be:
+* CxO or Company Leadership
+* Primary Legal Counsel 
+* Head of Sales
+* Corporate Communications
+* Practice Lead for Data & AI (or equivalent)
 
 ## Agendas
 There are four possible business agendas, and each will have progressive interaction, understanding and enablement.  Depending on the technical depth of the partner in AI/Data Science, these can be followed by a technical workshop as well.
@@ -22,7 +37,7 @@ Can be delivered virtually or in-person.  Good interaction and all scearios cove
 | Length |  Topics                      |
 |:------:|:----------------------------:|
 | 0:20   |Initial Scenario              |
-| 0:30   |Responsible AI Overview       |
+| 0:30   |Responsible AI (RAI) Overview |
 | 0:15   |Fairness Scenarios            |
 | 0:15   |Accountability Scenarios      |
 | 0:15   |Transparency Scenarios        |
@@ -70,7 +85,7 @@ Can be delivered virtual or in-person.  A hands on workshop for technical staff 
 
 | Length |  Topics                      |
 |:------:|:----------------------------:|
-| 0:45   |Auzre AI Overview                   |
+| 0:45   |Azure AI Overview                   |
 | 0:45   |Azure Machine Learning Overview       |
 | 0:15   |Break                        |
 | 0:45   |Hands on with Model Interpretability Notebooks    |
@@ -78,4 +93,4 @@ Can be delivered virtual or in-person.  A hands on workshop for technical staff 
 | 0:10   |Next Steps & Debrief          |
 
 Content Owner: Chris Kahrs (ckahrs@microsoft.com)<br>
-Update Date: 2020.1.30
+Update Date: 2020.2.18
