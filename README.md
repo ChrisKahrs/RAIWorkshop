@@ -3,7 +3,7 @@ A repository created by US OCP for public facing RAI Workshop Materials <br>
 This repository can be accessed via: https://aka.ms/raiworkshop
 
 ## Purpose
-This workshop is designed to aid Microsoft partners in developing an awareness of Responsible AI as they engage in AI projects for their customers.  By the end of the workshop partners will be able to:
+This1 workshop is designed to aid Microsoft partners in developing an awareness of Responsible AI as they engage in AI projects for their customers.  By the end of the workshop partners will be able to:
 * Conduct simular workshops with their employees to ensure their specific AI principles are proliferated throughout the organization
 * Conduct simular workshops with their customers to ensure their joint AI principles are adherd to throughout shared projects
 * Create a process/committee to resolve internal escalations of possible Responsible AI conflicts
