@@ -3,7 +3,7 @@
 
 * Reuse as much as possible from the internal Responsible AI Team
   * BDM and TDM Decks
-* Review with as broad a team as possible scenarios
+* Review scenarios with as broad a team as possible 
   * Including international 
 * Create and maintain the "Scenario" Tool
 * In the Technical Workshop use
