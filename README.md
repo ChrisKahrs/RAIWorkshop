@@ -36,7 +36,7 @@ Can be delivered virtually or in-person.  Good interaction and all scenarios cov
 
 | Length |  Topics                      |
 |:------:|:----------------------------:|
-| 0:20   |Initial Scenario              |
+| 0:20   |Initial Scenario and vote     |
 | 0:30   |Responsible AI (RAI) Overview |
 | 0:15   |Fairness Scenarios            |
 | 0:15   |Accountability Scenarios      |
