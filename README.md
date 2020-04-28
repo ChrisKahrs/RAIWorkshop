@@ -28,6 +28,7 @@ For the Leadership Workshop the attendees ideally would be:
 * Head of Sales
 * Corporate Communications
 * Practice Lead for Data & AI (or equivalent)
+* Anyone with a passion for the topic and plans to be a leader in this space
 
 ## Standard Leadership Agenda (3-4 hours, 1/2 day)
 Can be delivered virtually or in-person.  Good interaction and all scenarios covered, but limited depth on scenario stages and discussion on the topics.
@@ -47,7 +48,7 @@ Can be delivered virtually or in-person.  Good interaction and all scenarios cov
  |Next Steps & Debrief          |
 
 
-## RAI Technical Agenda (7.5 hours, Full Day)
+## Responsible Machine Learning (RML) Agenda (7.5 hours, Full Day)
 Can be delivered virtual or in-person.  A hands on workshop for technical staff who want to understand how RAI is implimented in model development and design.  Good for both general developers, but ideal for those with Python/R and ML expereince.
 
 | Length |  Topics                                          |
