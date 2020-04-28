@@ -9,6 +9,10 @@ This workshop is designed to aid Microsoft partners in developing an awareness o
 * Create a process/committee to resolve internal escalations of possible Responsible AI conflicts
 * Establish a 1-hour quarterly rhythm with Microsoft for bi-directional communications regarding Responsible AI
   
+## Direct Engagment vs. Indirect Engagement
+* Direct Engagement is where you are planning to build a service practice that helps customers directly more with RAI.  Possibly a service offering in RAI?  But direct, attributable revenue will be the outcome of this path.
+* Indirect Engagement (probably 80% of Partners attending this workshop) are where you will absorb the message/principles taught and proliferate them through your offerings and employee/customer conversation.  It has show by some to get them into deals they may not have been in before but largely it is part of HOW you do business and your own “SDLC” (Software Development Life Cycle).  
+
 
 ## Prerequisites
 It will greatly aid in your understanding and ability to participate in the course if you can complete the three modules in the learning path [Identify guiding principles for responsible AI](https://docs.microsoft.com/en-us/learn/paths/responsible-ai-business-principles/).
@@ -25,10 +29,7 @@ For the Leadership Workshop the attendees ideally would be:
 * Corporate Communications
 * Practice Lead for Data & AI (or equivalent)
 
-## Agendas
-In addition to the Leadership Workshop Agenda and depending on the technical depth of the partner in AI/Data Science, this can be followed by a technical workshop as well.
-
-### Standard Leadership Agenda (3-4 hours, 1/2 day)
+## Standard Leadership Agenda (3-4 hours, 1/2 day)
 Can be delivered virtually or in-person.  Good interaction and all scenarios covered, but limited depth on scenario stages and discussion on the topics.
 
  |  Topics                      |
@@ -46,7 +47,7 @@ Can be delivered virtually or in-person.  Good interaction and all scenarios cov
  |Next Steps & Debrief          |
 
 
-### RAI Technical Agenda (7.5 hours, Full Day)
+## RAI Technical Agenda (7.5 hours, Full Day)
 Can be delivered virtual or in-person.  A hands on workshop for technical staff who want to understand how RAI is implimented in model development and design.  Good for both general developers, but ideal for those with Python/R and ML expereince.
 
 | Length |  Topics                                          |
