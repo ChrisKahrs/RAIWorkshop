@@ -18,7 +18,7 @@ It will greatly aid in your understanding and ability to participate in the cour
 
 
 ## Who Should Attend the Leadership Workshop
-For the business workshop the attendees ideally would be:
+For the Leadership Workshop the attendees ideally would be:
 * CxO or Company Leadership
 * Primary Legal Counsel 
 * Head of Sales
@@ -26,61 +26,27 @@ For the business workshop the attendees ideally would be:
 * Practice Lead for Data & AI (or equivalent)
 
 ## Agendas
-There are four possible business agendas, and each will have progressive interaction, understanding and enablement.  Depending on the technical depth of the partner in AI/Data Science, these can be followed by a technical workshop as well.
+In addition to the Leadership Workshop Agenda and depending on the technical depth of the partner in AI/Data Science, this can be followed by a technical workshop as well.
 
-### Overview Business Agenda (1 hour)
-This is mainly a webcast overview for general awareness.  Little to no interaction and limited depth.
-
-### Standard Business Agenda (3 hours)
+### Standard Leadership Agenda (3-4 hours, 1/2 day)
 Can be delivered virtually or in-person.  Good interaction and all scenarios covered, but limited depth on scenario stages and discussion on the topics.
 
-| Length |  Topics                      |
-|:------:|:----------------------------:|
-| 0:20   |Initial Scenario and vote     |
-| 0:30   |Responsible AI (RAI) Overview |
-| 0:15   |Fairness Scenarios            |
-| 0:15   |Accountability Scenarios      |
-| 0:15   |Transparency Scenarios        |
-| 0:15   |Break                         |
-| 0:15   |Reliability & Safety Scenarios|
-| 0:15   |Privacy & Security Scenarios  |
-| 0:15   |Inclusiveness Scenarios       |
-| 0:15   |Setting up YOUR RAI Process   |
-| 0:10   |Next Steps & Debrief          |
-
-### Light Business Agenda (2 hours)
-Generally delivered virtually.  Some interaction and not all scenarios covered, plus limited depth on scenario stages and discussion on the topics.
-
-| Length |  Topics                    |
-|:------:|:--------------------------:|
-| 0:20   |Initial Scenario            |
-| 0:30   |Responsible AI Overview     |
-| 0:15   |Fairness Scenarios          |
-| 0:15   |Accountability Scenarios    |
-| 0:15   |Transparency Scenarios      |
-| 0:15   |Setting up YOUR RAI Process |
-| 0:10   |Next Steps & Debrief        |
+ |  Topics                      |
+ |:----------------------------:|
+ |Initial Scenario              |
+ |Responsible AI (RAI) Overview |
+ |Fairness Scenarios            |
+ |Accountability Scenarios      |
+ |Transparency Scenarios        |
+ |Break                         |
+ |Reliability & Safety Scenarios|
+ |Privacy & Security Scenarios  |
+ |Inclusiveness Scenarios       |
+ |Setting up YOUR RAI Process   |
+ |Next Steps & Debrief          |
 
 
-### Depth Business Agenda (4 hours)
-Will be delivered in-person.  Good interaction and all scearios covered, with extended depth on scenario stages and discussion on the topics.
-
-| Length |  Topics                      |
-|:------:|:----------------------------:|
-| 0:20   |Initial Scenario              |
-| 0:30   |Responsible AI Overview       |
-| 0:25   |Fairness Scenarios            |
-| 0:25   |Accountability Scenarios      |
-| 0:25   |Transparency Scenarios        |
-| 0:15   |Break                         |
-| 0:25   |Reliability & Safety Scenarios|
-| 0:25   |Privacy & Security Scenarios  |
-| 0:25   |Inclusiveness Scenarios       |
-| 0:20   |Setting up YOUR RAI Process   |
-| 0:10   |Next Steps & Debrief          |
-
-
-## RAI Technical Agenda (7.5 hours)
+### RAI Technical Agenda (7.5 hours, Full Day)
 Can be delivered virtual or in-person.  A hands on workshop for technical staff who want to understand how RAI is implimented in model development and design.  Good for both general developers, but ideal for those with Python/R and ML expereince.
 
 | Length |  Topics                                          |
