@@ -4,10 +4,15 @@ This repository can be accessed via: https://aka.ms/raiworkshop
 
 ## Purpose
 This workshop is designed to aid Microsoft partners in developing an awareness of Responsible AI as they engage in AI projects for their customers.  By the end of the workshop partners will be able to:
-* Conduct simular workshops with their employees to ensure their specific AI principles are proliferated throughout the organization
-* Conduct simular workshops with their customers to ensure their joint AI principles are adherd to throughout shared projects
-* Create a process/committee to resolve internal escalations of possible Responsible AI conflicts
+
+* Conduct similar workshops with your employees to ensure their specific AI principles are proliferated throughout the organization
+
+* Conduct similar workshops with your customers to ensure your joint AI principles are adhered to throughout shared projects
+
+* Create a process/committee for governance and to resolve internal escalations of possible Responsible AI conflicts
+
 * Establish a 1-hour quarterly rhythm with Microsoft for bi-directional communications regarding Responsible AI
+
   
 ## Direct Engagment vs. Indirect Engagement
 * Direct Engagement is where you are planning to build a service practice that helps customers directly more with RAI.  Possibly a service offering in RAI?  But direct, attributable revenue will be the outcome of this path.
