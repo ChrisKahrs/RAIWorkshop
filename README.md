@@ -15,18 +15,21 @@ This workshop is designed to aid Microsoft partners in developing an awareness o
 
   
 ## Direct Engagment vs. Indirect Engagement
-* Direct Engagement is where you are planning to build a service practice that helps customers directly more with RAI.  Possibly a service offering in RAI?  But direct, attributable revenue will be the outcome of this path.
-* Indirect Engagement (probably 80% of Partners attending this workshop) are where you will absorb the message/principles taught and proliferate them through your offerings and employee/customer conversation.  It has show by some to get them into deals they may not have been in before but largely it is part of HOW you do business and your own “SDLC” (Software Development Life Cycle).  
+* **Direct Engagement** is where you are planning to build a service practice that helps customers directly with RAI. Possibly a service offering in RAI? But direct, attributable revenue will be the outcome of this path.
+
+* **Indirect Engagement** (probably 80% of Partners attending this workshop) is where you will absorb the message/principles taught and proliferate them through your offerings and employee/customer conversations. It has been shown by some partners to get them into deals they may not have been in before but largely it is part of HOW you do business and your own “SDLC” (Software Development Life Cycle).
+
 
 
 ## Prerequisites
-It will greatly aid in your understanding and ability to participate in the course if you can complete the three modules in the learning path [Identify guiding principles for responsible AI](https://docs.microsoft.com/en-us/learn/paths/responsible-ai-business-principles/).
+ At a minimum please review the [Microsoft Responsible AI Website](https://www.microsoft.com/en-us/ai/responsible-ai).  It will greatly aid in your understanding and ability to participate in the course.  If you can complete the three modules in the learning path [Identify guiding principles for responsible AI](https://docs.microsoft.com/en-us/learn/paths/responsible-ai-business-principles/) that will bring your understanding of the topic even deeper.
+
 1.  [Identify guiding principles for responsible AI](https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/index)
 1.  [Identify governing practices for responsible AI](https://docs.microsoft.com/en-us/learn/modules/responsible-ai-governing-practices/index)
 1.  [Discuss practices for responsible AI at Microsoft](https://docs.microsoft.com/en-us/learn/modules/microsoft-responsible-ai-practices/index)
 
 
-## Who Should Attend the Leadership Workshop
+## Who Should Attend the Leadership/Business Workshop
 For the Leadership Workshop the attendees ideally would be:
 * CxO or Company Leadership
 * Primary Legal Counsel 
@@ -35,7 +38,7 @@ For the Leadership Workshop the attendees ideally would be:
 * Practice Lead for Data & AI (or equivalent)
 * Anyone with a passion for the topic and plans to be a leader in this space
 
-## Standard Leadership Agenda (3-4 hours, 1/2 day)
+## Standard Leadership/Business Agenda (3-4 hours, 1/2 day)
 Can be delivered virtually or in-person.  Good interaction and all scenarios covered, but limited depth on scenario stages and discussion on the topics.
 
  |  Topics                      |
